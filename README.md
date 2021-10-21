@@ -1,2 +1,2 @@
-# STM32-Standard_Peripheral_Library
+# STM32 | Standard Peripheral Library (SPL)
  Standard Peripheral Libraries in STM32 
